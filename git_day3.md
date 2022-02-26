@@ -87,7 +87,7 @@ git merge (브랜치명)  - master에 branch를 병합함.
 
 
 
-## git workflow 추가작성 요망
+## git workflow
 
 - Branch를 이용해 협업하는 두가지 방법
 
